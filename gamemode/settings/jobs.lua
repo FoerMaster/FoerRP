@@ -1,0 +1,12 @@
+FoerRP.AddJob("citizen","Гражданин")
+:SetSalary(10)
+:SetModels({"models/player/kleiner.mdl"})
+:SetSpawns({Vector(0,0,0)})
+:SetColor(Color(10,150,10))
+
+FoerRP.AddJob("police","Полиция")
+:SetSalary(150)
+:SetWeapons({})
+:SetModels({"models/player/kleiner.mdl"})
+:SetSpawns({Vector(80,0,0)})
+:SetColor(Color(39,27,206))

@@ -1,0 +1,8 @@
+"foerrp"
+{
+	"base"		"base"
+	"title"		"FoerRP"
+	"maps"		"^rp_"
+	"category"	"rp"
+	"menusystem"	"1"
+}
